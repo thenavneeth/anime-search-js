@@ -4,7 +4,7 @@ This website allows users to search for anime using the AniList API. It provides
 
 ## Live Demo
 
-Check out the live demo of the website [here](https://your-website-url.com).
+Check out the live demo of the website [here](https://thenavneeth.github.io/anime-search-js/).
 
 ## Features
 
